@@ -39,3 +39,9 @@ This notebook is written in a beginner-friendly way with explanations for each c
 - Matplotlib  
 - Seaborn  
 - Scikit-Learn  
+
+---
+
+## 📚 Official NumPy Documentation  
+For complete reference and advanced usage, check out the official docs:  
+🔗 https://numpy.org/doc/
