@@ -14,7 +14,6 @@ This folder contains my learning notes, examples, and practice notebooks for **N
 - Useful NumPy functions  
 - Statistics with NumPy  
 - Random module  
-- Practice examples  
 
 ---
 
@@ -31,14 +30,6 @@ This notebook is written in a beginner-friendly way with explanations for each c
 - To document my NumPy learning journey  
 - To create easy-to-understand resources for others  
 - To build a strong foundation for Pandas, Matplotlib, Seaborn, and Machine Learning  
-
----
-
-## 🔗 More Libraries Coming Soon
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-Learn  
 
 ---
 
