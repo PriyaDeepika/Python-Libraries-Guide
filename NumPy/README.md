@@ -20,7 +20,13 @@ This folder contains my learning notes, examples, and practice notebooks for **N
 ## 📘 Notebook  
 All explanations and code are included in the Jupyter Notebook:
 
-👉 **NumPy_Basics.ipynb**
+1.  **numpy_intro_and_basics.ipynb**
+
+2.  **Array_Creation_and_Operations.ipynb**
+
+3.  **Advanced_NumPy_for_Data_Analysis_and_ML.ipynb**
+
+Hey! Some topics in the 3rd notebook are the same as in the 2nd notebook, but I included extra examples, advanced parts, and more explanation for better understanding. 🙂
 
 This notebook is written in a beginner-friendly way with explanations for each concept.
 
