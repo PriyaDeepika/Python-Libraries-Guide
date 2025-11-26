@@ -1,4 +1,4 @@
-# 📊 Pandas Guide — For Data Science & Data Analysis
+#  Pandas Guide — For Data Science & Data Analysis
 
 A clean, beginner-friendly guide to Pandas focused only on the topics that truly matter for:
 
