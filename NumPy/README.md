@@ -4,7 +4,7 @@ This folder contains my learning notes, examples, and practice notebooks for **N
 
 ---
 
-## 📌 What’s Included
+##  What’s Included
 
 - Introduction to NumPy  
 - Creating arrays (1D, 2D, 3D)  
@@ -17,7 +17,7 @@ This folder contains my learning notes, examples, and practice notebooks for **N
 
 ---
 
-## 📘 Notebook  
+##  Notebook  
 All explanations and code are included in the Jupyter Notebook:
 
 1.  **numpy_intro_and_basics.ipynb**
@@ -32,13 +32,13 @@ This notebook is written in a beginner-friendly way with explanations for each c
 
 ---
 
-## 🎯 Purpose  
+##  Purpose  
 - To document my NumPy learning journey  
 - To create easy-to-understand resources for others  
 - To build a strong foundation for Pandas, Matplotlib, Seaborn, and Machine Learning  
 
 ---
 
-## 📚 Official NumPy Documentation  
+##  Official NumPy Documentation  
 For complete reference and advanced usage, check out the official docs:  
 🔗 https://numpy.org/doc/
