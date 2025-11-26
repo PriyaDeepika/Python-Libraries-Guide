@@ -6,7 +6,7 @@ My goal is to create a clear, beginner-friendly reference that helps me (and oth
 
 ---
 
-## 📚 Libraries Covered
+##  Libraries Covered
 
 ### 🔹 NumPy  
 Fundamentals of numerical computing, array manipulation, mathematical operations, statistics, and random functions.
@@ -49,7 +49,7 @@ Each folder includes:
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 - To document my learning journey in AI & DS  
 - To build a strong foundation in Python libraries  
@@ -59,7 +59,7 @@ Each folder includes:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Python  
 - Jupyter Notebook  
 - NumPy  
@@ -69,7 +69,7 @@ Each folder includes:
 
 ---
 
-## 🚀 Future Additions
+##  Future Additions
 - Scikit-Learn  
 - Plotly  
 - Statistics Notes  
